@@ -48,7 +48,8 @@ angular.module('starter.controllers', [])
             $scope.$parent.currentdistid = data.data['ID'];
             $scope.$parent.currentdistname = data.data['Name'];
         });
-        window.localStorage['remoteurl'] = 'http://114.215.184.49:3000/';
+        window.localStorage['remoteurl'] = 'http://218.244.145.92:3333/';
+        //window.localStorage['remoteurl'] = 'http://localhost:3333/';
         window.localStorage['callback'] = '?callback=JSON_CALLBACK';
         window.localStorage['loginurl'] = window.localStorage['remoteurl'] + 'login' + window.localStorage['callback']
         $scope.reloadDist = function () {

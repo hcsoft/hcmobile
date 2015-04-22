@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.mobile253203" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>恒辰公卫</name>
+<widget id="com.hcsoft.cn.yliang" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>hcmobile</name>
   <description>
-    恒辰公共卫生服务平台手机版
+    hcmobile
     </description>
   <author email="hengcsoft@163.com" href="www.hcsoft.cn">
       hcsoft
